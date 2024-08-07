@@ -33,15 +33,15 @@ body {
 }
 
 .nav ul {
+  color: whitesmoke;
   display: flex;
   list-style-type: none;
   align-items: center;
-
   justify-content: center;
 }
 
 .nav a {
-  color: #1f316f;
+  color: #fdfdfd;
   text-decoration: none;
   padding: 7px 15px;
   transition: all 0.3s ease-in-out;
